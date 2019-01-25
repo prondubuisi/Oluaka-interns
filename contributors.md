@@ -26,3 +26,4 @@
 | ------------- |:-------------:| 
 | Frontend      | Javascript/UI/UX| 
 
+### Helen Okorie 
