@@ -1,4 +1,8 @@
 # Contributors List
 
 ### Onyemenam Ndubuisi
-###Osuagwu Chukwuebuka
+### chinomso onwukwe
+### Adeniyi Olawale
+### Osuagwu Chukwuebuka
+
+
