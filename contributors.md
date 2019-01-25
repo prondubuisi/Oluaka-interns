@@ -9,6 +9,9 @@
 ### Adeniyi Olawale
 ### Osuagwu Chukwuebuka
 ### OKWUOSA CHUKWUEBUKA
+| Stack       | Prefered Language/Framework      
+| ------------- |:-------------:| 
+| FRONT-END      | HTML/CSS/BOOTSRAP/js 
 
 
 
