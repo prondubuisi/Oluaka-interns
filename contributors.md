@@ -20,3 +20,9 @@
 | ------------- |:-------------:| 
 | FRONT-END      | HTML/CSS/BOOTSRAP/js 
 
+
+### Chigoziem
+| Stack      | Preferred Language/framework          
+| ------------- |:-------------:| 
+| Frontend      | Javascript/UI/UX| 
+
