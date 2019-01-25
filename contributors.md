@@ -16,4 +16,7 @@
 | ------------- |:-------------:| 
 | FRONT-END      | HTML/CSS/BOOTSRAP/js 
 
-
+### joy testing
+| Stack       | Prefered Language/Framework      
+| ------------- |:-------------:| 
+| MIDDLE-END      | HTML/CSS/BOOTSRAP/js 
