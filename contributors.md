@@ -26,3 +26,6 @@
 | ------------- |:-------------:| 
 | Frontend      | Javascript/UI/UX| 
 ### Helen Okorie 
+| Stack       | Prefered Language/Framework      
+| ------------- |:-------------:| 
+| FRONT-END      | HTML/CSS/BOOTSRAP/js 
