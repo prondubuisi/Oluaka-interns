@@ -13,5 +13,7 @@
 | ------------- |:-------------:| 
 | Frontend      | Javascript | 
 ### Chigoziem 
-
+| Stack      | Preferred Language/framework          
+| ------------- |:-------------:| 
+| Frontend      | Javascript/UI/UX|
 
